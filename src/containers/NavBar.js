@@ -9,7 +9,7 @@ class NavBar extends Component {
 
     return (
       <>
-        <Menu stackable inverted>
+        <Menu stackable inverted size='massive'>
           <Menu.Item>
             <img src={mainLogo} />
           </Menu.Item>
